@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "steps_count": 951,
-  "steps_sum": 3581265,
-  "stress_count": 951,
-  "stress_sum": 29761.0,
-  "through": "2026-11-16",
-  "through_day_start": 1794776400
+  "steps_count": 952,
+  "steps_sum": 3582683,
+  "stress_count": 952,
+  "stress_sum": 29795.0,
+  "through": "2026-11-17",
+  "through_day_start": 1794862800
 }
